@@ -1,0 +1,59 @@
+
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.eot');
+    src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular.woff') format('woff'),
+        url('../fonts/Lato-Regular.ttf') format('truetype'),
+        url('../fonts/Lato-Regular.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DancingScript';
+    src: url('../fonts/DancingScript.eot');
+    src: url('../fonts/DancingScript.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DancingScript.woff2') format('woff2'),
+        url('../fonts/DancingScript.woff') format('woff'),
+        url('../fonts/DancingScript.ttf') format('truetype'),
+        url('../fonts/DancingScript.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ChopinScript';
+    src: url('../fonts/ChopinScript.eot');
+    src: url('../fonts/ChopinScript.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ChopinScript.woff2') format('woff2'),
+        url('../fonts/ChopinScript.woff') format('woff'),
+        url('../fonts/ChopinScript.ttf') format('truetype'),
+        url('../fonts/ChopinScript.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambria';
+    src: url('../fonts/Cambria.eot');
+    src: url('../fonts/Cambria.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cambria.woff2') format('woff2'),
+        url('../fonts/Cambria.woff') format('woff'),
+        url('../fonts/Cambria.ttf') format('truetype'),
+        url('../fonts/Cambria.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AGENCYR';
+    src: url('../fonts/AGENCYR.eot');
+    src: url('../fonts/AGENCYR.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AGENCYR.woff2') format('woff2'),
+        url('../fonts/AGENCYR.woff') format('woff'),
+        url('../fonts/AGENCYR.ttf') format('truetype'),
+        url('../fonts/AGENCYR.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
